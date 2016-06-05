@@ -21,6 +21,10 @@ These plugins come from the parent code base and have been maintained so that th
   - lora
   - tcpsrc (although it has evolved please use the udpsrc plugin instead)
 
+<h2>Depracated plugins</h2>
+
+SDRdaemon plugin was present in the build prior to v2.0.1 but has been deprecated since and is not part of the build anymore.
+  
 <h1>Supported hardware</h1>
 
 <h2>Multiple device support</h2>
