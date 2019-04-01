@@ -1,6 +1,6 @@
 #!/bin/bash
-SDRANGEL_VERSION="4.5.0"
-QT_VERSION="5.12.1"
+SDRANGEL_VERSION="4.5.1"
+QT_VERSION="5.12.2"
 QT_HOME="/Applications/Qt/${QT_VERSION}"
 
 # Run from build directory after build
